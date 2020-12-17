@@ -32,3 +32,25 @@ Constraints and notes
     x1,x2x_1, x_2x1​,x2​ are given with at most two decimal points.
     Points may overlap and have the same x1,x2x_1, x_2x1​,x2​.
     For 50%50\%50% of the test data, 1≤N≤5 0001 \leq N \leq 5\,0001≤N≤5000 
+    
+## Mosaic Decoration I
+Time limit: 2500 ms
+Memory limit: 256 MB
+
+Zapray lives in a big mansion that has NNN bathrooms. He wants to decorate the bathroom walls using mosaic tiles of two colors: black and pink. The iiith bathroom needs BiB_iBi​ black tiles and PiP_iPi​ pink tiles. Mosaic tiles are sold in piles. Zapray can buy one pile of 101010 black tiles for CBC_BCB​ dollars, and one pile of 101010 pink tiles for CPC_PCP​ dollars. How much money does he need in total to decorate all the NNN bathrooms?
+
+Standard input
+
+The input contains three integers N,CB,CPN, C_B, C_PN,CB​,CP​ on the first line.
+
+The next NNN lines each have two integers. The iiith line has BiB_iBi​ and PiP_iPi​.
+
+Standard output
+
+Output a single integer, the amount of money in dollars that Zapray needs to decorate all his bathrooms.
+
+Constraints and notes
+
+    2≤N≤1002 \leq N \leq 1002≤N≤100
+    1≤CB,CP≤1 0001 \leq C_B, C_P \leq 1\,0001≤CB​,CP​≤1000
+    1≤Bi,Pi≤1 0001 \leq B_i, P_i \leq 1\,0001≤Bi​,Pi​≤1000 
